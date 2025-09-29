@@ -1,0 +1,9 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Cxrzin08/crypto-sentiment-mobile
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Cxrzin08/crypto-sentiment-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Cxrzin08/crypto-sentiment-backend
