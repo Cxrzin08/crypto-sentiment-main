@@ -26,11 +26,11 @@ O projeto é dividido em três serviços principais, cada um gerenciado como um 
 Cada serviço vive em seu próprio diretório e possui um `README.md` com instruções específicas.
 
 *   ➡️ **`/mobile`**: Contém o código-fonte do aplicativo Android.
-    *   **Para detalhes, acesse o [README do Mobile](./mobile/README.md).**
+    *   **Para detalhes, acesse o [README do Mobile](.https://github.com/Cxrzin08/crypto-sentiment-mobile/blob/9fb02631973881627504e4ff12e174f6e82aebf7/README.md).**
 *   ➡️ **`/frontend`**: Contém o código-fonte da aplicação web em React.
-    *   **Para detalhes, acesse o [README do Frontend](./frontend/README.md).**
+    *   **Para detalhes, acesse o [README do Frontend](.https://github.com/Cxrzin08/crypto-sentiment-frontend/blob/44ecd93a4e590957abb8a51a95a5332ef65b7ad3/README.md).**
 *   ➡️ **`/backend`**: Contém o código-fonte da API e a lógica de negócios.
-    *   **Para detalhes, acesse o [README do Backend](./backend/README.md).**
+    *   **Para detalhes, acesse o [README do Backend](.https://github.com/Cxrzin08/crypto-sentiment-backend/blob/f698bc354b1330b0cc4d681caf3d201fc6fd4eec/README.md).**
 
 ## 4. Como Configurar e Executar o Ambiente Completo
 
@@ -47,7 +47,7 @@ Para facilitar o desenvolvimento e a implantação, o projeto é totalmente cont
 1.  **Clonar o Repositório Principal (com submódulos):**
     Use o comando `--recurse-submodules` para clonar o repositório e inicializar os submódulos de uma só vez.
     ```bash
-    git clone --recurse-submodules https://github.com/SEU_USUARIO/crypto-sentiment-main.git
+    git clone --recurse-submodules https://github.com/Cxrzin08/crypto-sentiment-main.git
     cd crypto-sentiment-main
     ```
     > **Atenção:** Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub.
